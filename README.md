@@ -1,0 +1,1 @@
+# docker-ci-tool-stack-sonar
