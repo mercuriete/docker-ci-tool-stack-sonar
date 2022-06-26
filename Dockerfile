@@ -2,7 +2,7 @@
 # Creates a docker container with SonarQube, incl. several plugins
 #
 
-FROM centos:7
+FROM centos:8
 
 MAINTAINER Marcel Birkner <marcel.birkner@codecentric.de>
 
